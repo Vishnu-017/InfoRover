@@ -4,6 +4,7 @@
 embeddings and FAISS operations to enhance search capabilities. Users can input prompts, and the system generates relevant outputs based on similarity search.
 
 **Key Features**
+
   **PDF Content Extraction**: 
       Extracts text, images, and links from PDF files, providing a comprehensive overview of the document's content.
 
@@ -20,6 +21,9 @@ embeddings and FAISS operations to enhance search capabilities. Users can input 
       Facilitates user interaction by accepting prompts, enabling customized searches and output generation.
 
 **Dependencies**
-PyPDF2: For PDF file handling and text extraction.
-Langchain: Character text splitter for language processing.
-OpenAI: Utilized for embeddings and semantic analysis.
+
+**PyPDF2**: For PDF file handling and text extraction.
+
+**Langchain**: Character text splitter for language processing.
+
+**OpenAI**: Utilized for embeddings and semantic analysis.
